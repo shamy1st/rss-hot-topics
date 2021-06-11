@@ -12,6 +12,8 @@ Take at least two RSS URLs as a parameter (more are possible)
         "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
         "https://rss.msn.com/en-us"]
 
+**Response** an unique identifier, which will be the input for the second API endpoint.
+
 ### /frequency/{id}
 
 
