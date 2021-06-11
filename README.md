@@ -14,6 +14,16 @@ Take at least two RSS URLs as a parameter (more are possible)
 
 **Response** an unique identifier, which will be the input for the second API endpoint.
 
+        8b5bd8ac-0860-4a4a-beec-124294d917e2
+
 ### /frequency/{id}
 
+Take an id as input
+
+        8b5bd8ac-0860-4a4a-beec-124294d917e2
+
+**Output**
+1. The three elements with the most matches.
+2. The orignal news header.
+3. The link to the whole news text should be displayed.
 
