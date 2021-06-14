@@ -29,3 +29,23 @@ Take an id as input
 2. The orignal news header.
 3. The link to the whole news text should be displayed.
 
+## Sample RSS Feed
+
+        //Sample Google RSS Feed
+        Putin dismisses criticism of hacking and internal crackdowns ahead of Biden summit - NBC News
+        Joe Biden was corrected by Boris Johnson after the president interrupted him at the G7 summit - Business Insider
+        China pushes back against G-7 joint statement, blames 'sinister intentions' of US, others - Fox News
+        Boris Johnson set to postpone England’s ‘freedom day’ as delta variant cases climb - The Washington Post
+        Delta COVID-19 variant 'probably going to become' dominant strain in US, Gottlieb says - Fox News
+
+        //Sample Nytimes RSS Feed
+        As Biden Meeting Nears, Erdogan Softens His Stance
+        President Biden Will Meet Queen Elizabeth at Windsor Castle
+        To Counter China's Belt-and-Road, Biden Tries to Unite G7
+        Biden Will Hold Separate News Conference From Putin  After Summit
+        French Companies Admit Problems at Nuclear Plant in China
+        Explosion at Produce Market Kills at Least 12 in China
+        Delta Variant Producing More Severe Illness, Doctors in China Say
+
+
+
