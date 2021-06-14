@@ -32,7 +32,7 @@ Take an id as input
 ## Sample RSS Feed
 
         //Sample Google RSS Feed
-        Putin dismisses criticism of hacking and internal crackdowns ahead of **Biden** summit - NBC News
+        Putin dismisses criticism of hacking and internal crackdowns ahead of Biden summit - NBC News
         Joe Biden was corrected by Boris Johnson after the president interrupted him at the G7 summit - Business Insider
         China pushes back against G-7 joint statement, blames 'sinister intentions' of US, others - Fox News
         Boris Johnson set to postpone England’s ‘freedom day’ as delta variant cases climb - The Washington Post
