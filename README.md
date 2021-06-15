@@ -49,3 +49,9 @@ Take an id as input
 
         mvn spring-boot:run -Dspring-boot.run.arguments=--server.port=8080
 
+![](https://github.com/shamy1st/rss-hot-topics/blob/main/analyse.png)
+
+![](https://github.com/shamy1st/rss-hot-topics/blob/main/frequency.png)
+
+
+
