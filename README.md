@@ -47,9 +47,15 @@ Take an id as input
 
 ## Run
 
+### commandline
+
         mvn spring-boot:run -Dspring-boot.run.arguments=--server.port=8080
 
+### Post analyse from postman
+
 ![](https://github.com/shamy1st/rss-hot-topics/blob/main/analyse.png)
+
+### Get frequency from browser
 
 ![](https://github.com/shamy1st/rss-hot-topics/blob/main/frequency.png)
 
