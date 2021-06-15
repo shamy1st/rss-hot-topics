@@ -45,5 +45,7 @@ Take an id as input
         Explosion at Produce Market Kills at Least 12 in China
         Delta Variant Producing More Severe Illness, Doctors in China Say
 
+## Run
 
+        mvn spring-boot:run -Dspring-boot.run.arguments=--server.port=8080
 
